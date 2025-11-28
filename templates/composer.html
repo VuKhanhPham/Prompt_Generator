@@ -1,0 +1,78 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="row">
+  <!-- Left: Prompt Composer -->
+  <div class="col-lg-7 mb-4">
+    <h4 class="mb-3">Prompt Composer</h4>
+
+    <!-- subtle inline status text -->
+    <div id="composer-message" class="text-muted small mb-2" style="display:none;"></div>
+
+    <div class="card p-3 border-0 shadow-sm">
+      <div class="mb-2">
+        <label class="form-label">Purpose</label>
+        <input id="purpose" class="form-control" placeholder="e.g. Election campaign email">
+      </div>
+
+      <div class="mb-2">
+        <label class="form-label">Audience</label>
+        <input id="audience" class="form-control" placeholder="e.g. College students">
+      </div>
+
+      <div class="mb-2">
+        <label class="form-label">
+          Tone
+          <span id="tone-label" class="fw-semibold ms-1">Friendly</span>
+        </label>
+        <input type="range" id="tone" min="0" max="100" value="40" class="form-range">
+      </div>
+
+      <div class="mb-2">
+        <label class="form-label">Keywords</label>
+        <input id="keywords" class="form-control" placeholder="comma-separated">
+      </div>
+
+      <div class="mb-3">
+        <label class="form-label">Free-form additions</label>
+        <textarea id="freeform" class="form-control" rows="2"
+                  placeholder="Any extra instructions for the AI..."></textarea>
+      </div>
+
+      <div class="d-flex gap-2 mb-3">
+        <button id="compose-btn" class="btn btn-primary">Compose Prompt</button>
+        <button id="save-btn" class="btn btn-outline-success">Save to Library</button>
+      </div>
+
+      <h6 class="fw-semibold">Editable Prompt Preview</h6>
+      <textarea id="preview" class="form-control bg-light" rows="5"
+                placeholder="Generated prompt will appear here..."></textarea>
+      <small class="text-muted">
+        You can edit this text manually. Click <strong>Recalculate Score</strong> to update the feedback.
+      </small>
+
+      <div class="mt-2">
+        <button id="recalc-btn" class="btn btn-sm btn-outline-secondary">Recalculate Score</button>
+      </div>
+
+      <div id="score-details" class="small mt-2 text-muted"></div>
+    </div>
+  </div>
+
+  <!-- Right: Prompt Library (Gabriel's part) -->
+  <div class="col-lg-5">
+    <h4 class="mb-3">Prompt Library</h4>
+
+    <input id="search-key" class="form-control mb-2" placeholder="Search by keyword">
+    <div class="d-flex flex-wrap gap-2 mb-2">
+      <button id="search-btn" class="btn btn-outline-primary btn-sm">Search</button>
+      <button id="sortAZ-btn" class="btn btn-outline-secondary btn-sm">Sort (A–Z)</button>
+      <button id="sortScore-btn" class="btn btn-outline-secondary btn-sm">Sort (Score)</button>
+      <button id="sortTone-btn" class="btn btn-outline-secondary btn-sm">Sort (Tone)</button>
+    </div>
+
+    <div id="library-list"
+         class="border rounded p-2 bg-white"
+         style="height:400px; overflow:auto;"></div>
+  </div>
+</div>
+{% endblock %}

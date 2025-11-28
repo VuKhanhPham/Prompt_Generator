@@ -1,0 +1,182 @@
+[
+  {
+    "id": "20251125201821966919",
+    "purpose": "Create an election campaign message",
+    "audience": "College students",
+    "tone_label": "Friendly",
+    "tone": 45,
+    "keywords": "Vote, President Alice, campus issues",
+    "freeform": "Highlight Alice\u2019s focus on mental health and sustainability. Make the message exciting and inspiring.\n\n",
+    "prompt": "Purpose: Create an election campaign message. Audience: College students. Tone: Friendly. Keywords: Vote, President Alice, campus issues. Please generate a clear, well-structured response. Highlight Alice\u2019s focus on mental health and sustainability. Make the message exciting and inspiring.",
+    "score": {
+      "details": {
+        "clarity": 40,
+        "length_bonus": 2,
+        "specificity": 30,
+        "tone_match": 30
+      },
+      "total": 102
+    },
+    "timestamp": "2025-11-25T20:18:21.967048"
+  },
+  {
+    "id": "20251125201825173698",
+    "purpose": "Create an election campaign message",
+    "audience": "College students",
+    "tone_label": "Friendly",
+    "tone": 45,
+    "keywords": "Vote, President Alice, campus issues",
+    "freeform": "Highlight Alice\u2019s focus on mental health and sustainability. Make the message exciting and inspiring.\n\n",
+    "prompt": "Purpose: Create an election campaign message. Audience: College students. Tone: Friendly. Keywords: Vote, President Alice, campus issues. Please generate a clear, well-structured response. Highlight Alice\u2019s focus on mental health and sustainability. Make the message exciting and inspiring.",
+    "score": {
+      "details": {
+        "clarity": 40,
+        "length_bonus": 2,
+        "specificity": 30,
+        "tone_match": 30
+      },
+      "total": 102
+    },
+    "timestamp": "2025-11-25T20:18:25.173770"
+  },
+  {
+    "id": "20251125201826185052",
+    "purpose": "Create an election campaign message",
+    "audience": "College students",
+    "tone_label": "Friendly",
+    "tone": 45,
+    "keywords": "Vote, President Alice, campus issues",
+    "freeform": "Highlight Alice\u2019s focus on mental health and sustainability. Make the message exciting and inspiring.\n\n",
+    "prompt": "Purpose: Create an election campaign message. Audience: College students. Tone: Friendly. Keywords: Vote, President Alice, campus issues. Please generate a clear, well-structured response. Highlight Alice\u2019s focus on mental health and sustainability. Make the message exciting and inspiring.",
+    "score": {
+      "details": {
+        "clarity": 40,
+        "length_bonus": 2,
+        "specificity": 30,
+        "tone_match": 30
+      },
+      "total": 102
+    },
+    "timestamp": "2025-11-25T20:18:26.185117"
+  },
+  {
+    "id": "20251125201826477641",
+    "purpose": "Create an election campaign message",
+    "audience": "College students",
+    "tone_label": "Friendly",
+    "tone": 45,
+    "keywords": "Vote, President Alice, campus issues",
+    "freeform": "Highlight Alice\u2019s focus on mental health and sustainability. Make the message exciting and inspiring.\n\n",
+    "prompt": "Purpose: Create an election campaign message. Audience: College students. Tone: Friendly. Keywords: Vote, President Alice, campus issues. Please generate a clear, well-structured response. Highlight Alice\u2019s focus on mental health and sustainability. Make the message exciting and inspiring.",
+    "score": {
+      "details": {
+        "clarity": 40,
+        "length_bonus": 2,
+        "specificity": 30,
+        "tone_match": 30
+      },
+      "total": 102
+    },
+    "timestamp": "2025-11-25T20:18:26.477671"
+  },
+  {
+    "id": "20251125201826793946",
+    "purpose": "Create an election campaign message",
+    "audience": "College students",
+    "tone_label": "Friendly",
+    "tone": 45,
+    "keywords": "Vote, President Alice, campus issues",
+    "freeform": "Highlight Alice\u2019s focus on mental health and sustainability. Make the message exciting and inspiring.\n\n",
+    "prompt": "Purpose: Create an election campaign message. Audience: College students. Tone: Friendly. Keywords: Vote, President Alice, campus issues. Please generate a clear, well-structured response. Highlight Alice\u2019s focus on mental health and sustainability. Make the message exciting and inspiring.",
+    "score": {
+      "details": {
+        "clarity": 40,
+        "length_bonus": 2,
+        "specificity": 30,
+        "tone_match": 30
+      },
+      "total": 102
+    },
+    "timestamp": "2025-11-25T20:18:26.793990"
+  },
+  {
+    "id": "20251125201921403463",
+    "purpose": "Create an election campaign message",
+    "audience": "College students",
+    "tone_label": "Friendly",
+    "tone": 45,
+    "keywords": "Vote, President Alice, campus issues",
+    "freeform": "Highlight Alice\u2019s focus on mental health and sustainability. Make the message exciting and inspiring.\n\n",
+    "prompt": "Purpose: Create an election campaign message. Audience: College students. Tone: Friendly. Keywords: Vote, President Alice, campus issues. Please generate a clear, well-structured response. Highlight Alice\u2019s focus on mental health and sustainability. Make the message exciting and inspiring.",
+    "score": {
+      "details": {
+        "clarity": 40,
+        "length_bonus": 2,
+        "specificity": 30,
+        "tone_match": 30
+      },
+      "total": 102
+    },
+    "timestamp": "2025-11-25T20:19:21.403528"
+  },
+  {
+    "id": "20251125202749649646",
+    "purpose": "Create a social media caption for a product launch",
+    "audience": "Young adults interested in fitness and wellness",
+    "tone_label": "Witty",
+    "tone": 63,
+    "keywords": "Protein shake, new flavor, gym, energy boost",
+    "freeform": "Highlight the new mocha flavor and encourage users to try a sample this weekend.\n",
+    "prompt": "Purpose: Create a social media caption for a product launch. Audience: Young adults interested in fitness and wellness. Tone: Witty. Keywords: Protein shake, new flavor, gym, energy boost. Please generate a clear, well-structured response. Highlight the new mocha flavor and encourage users to try a sample this weekend.",
+    "score": {
+      "details": {
+        "clarity": 40,
+        "length_bonus": 2,
+        "specificity": 30,
+        "tone_match": 30
+      },
+      "total": 102
+    },
+    "timestamp": "2025-11-25T20:27:49.649720"
+  },
+  {
+    "id": "20251125203002675211",
+    "purpose": "Create a social media caption for a product launch",
+    "audience": "Young adults interested in fitness and wellness.",
+    "tone_label": "Witty",
+    "tone": 63,
+    "keywords": "Protein shake, new flavor, gym, energy boost",
+    "freeform": "Highlight the new mocha flavor and encourage users to try a sample this weekend.\n\n",
+    "prompt": "Purpose: Create a social media caption for a product launch. Audience: Young adults interested in fitness and wellness.. Tone: Witty. Keywords: Protein shake, new flavor, gym, energy boost. Please generate a clear, well-structured response. Highlight the new mocha flavor and encourage users to try a sample this weekend.",
+    "score": {
+      "details": {
+        "clarity": 40,
+        "length_bonus": 2,
+        "specificity": 30,
+        "tone_match": 30
+      },
+      "total": 102
+    },
+    "timestamp": "2025-11-25T20:30:02.675271"
+  },
+  {
+    "id": "20251125220035319747",
+    "purpose": "Write a 150 word academic introduction paragraph. ",
+    "audience": "Undergraduate students studying psychology",
+    "tone_label": "Formal",
+    "tone": 9,
+    "keywords": "cognitive bias, decision making, psychology research",
+    "freeform": "Introduce the concept clearly and avoid casual phrasing. Provide 1 example of a bias/ ",
+    "prompt": "Purpose: Write a 150 word academic introduction paragraph.. Audience: Undergraduate students studying psychology. Tone: Formal. Keywords: cognitive bias, decision making, psychology research. Please generate a clear, well-structured response. Introduce the concept clearly and avoid casual phrasing. Provide 1 example of a bias/",
+    "score": {
+      "details": {
+        "clarity": 40,
+        "length_bonus": 2,
+        "specificity": 30,
+        "tone_match": 30
+      },
+      "total": 102
+    },
+    "timestamp": "2025-11-25T22:00:35.319807"
+  }
+]

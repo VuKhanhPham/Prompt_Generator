@@ -1,0 +1,15 @@
+# macOS junk
+.DS_Store
+
+# Python build junk
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+venv2/
+
+# Fonts / zips temporary
+*.zip
+Science_Gothic/
+
